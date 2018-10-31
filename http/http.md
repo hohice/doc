@@ -238,3 +238,5 @@ DNT: 1
 ![websocket请求](./images/websocket-1.png)
 #### websocket回复
 ![websocket回复](./images/websocket-2.png)
+#### websocket流程
+![websocket](./images/websocket.png)
